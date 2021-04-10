@@ -2,7 +2,8 @@
 Sou Cientista da Computação. 
 Atuo como Analista de TI e Desenvolvedora Web Front-end.<br>
 Instagram: ana.tech.dev<br>
-email@anamaria.dev.br<br>
+🔗 <a href="https://www.anamaria.dev.br> www.anamaria.dev.br</a><br>
+✉️ email@anamaria.dev.br<br>
 Tecnologia e Informática.<br>
 
 👩🏽‍💻💻
