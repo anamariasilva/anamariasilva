@@ -1,6 +1,6 @@
 ### Ana Maria Silva | Tech e Dev
-Cientista da Computação. Pós-Graduação em Ergodesign de Interfaces e Tecnologia e Inovações para Web.<br>
-Atuo como Analista de TI e Desenvolvedora Web Front-end.<br>
+Cientista da Computação. Concluinte das Pós-Graduação em Ergodesign de Interfaces e Tecnologia e Inovações para Web.<br>
+Analista de TI e Desenvolvedora Web Front-end.<br>
 🔗 Instagram: instagram.com/ana.tech.dev<br>
 🌐 https://www.anamaria.dev.br<br>
 ✉️ email@anamaria.dev.br<br>
