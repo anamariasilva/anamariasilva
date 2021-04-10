@@ -1,12 +1,11 @@
 ### Ana Maria Silva | Tech e Dev
-Sou Cientista da Computação. 
+Sou Cientista da Computação.<br>
 Atuo como Analista de TI e Desenvolvedora Web Front-end.<br>
-Instagram: ana.tech.dev<br>
-🔗 https://www.anamaria.dev.br<br>
+🔗 Instagram: ana.tech.dev<br>
+🌐 https://www.anamaria.dev.br<br>
 ✉️ email@anamaria.dev.br<br>
-Tecnologia e Informática.<br>
+👩🏽‍💻 Tecnologia e Informática.<br>
 
-👩🏽‍💻💻
 
 <!--
 **anamariasilva/anamariasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
