@@ -1,7 +1,7 @@
 ### Ana Maria Silva | Tech e Dev
 Sou Cientista da Computação.<br>
 Atuo como Analista de TI e Desenvolvedora Web Front-end.<br>
-🔗 Instagram: https://www.instagram.com/ana.tech.dev<br>
+🔗 Instagram: www.instagram.com/ana.tech.dev<br>
 🌐 https://www.anamaria.dev.br<br>
 Twitter: _anamariasilva_
 ✉️ email@anamaria.dev.br<br>
