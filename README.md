@@ -3,7 +3,7 @@ Sou Cientista da Computação.<br>
 Atuo como Analista de TI e Desenvolvedora Web Front-end.<br>
 🔗 Instagram: instagram.com/ana.tech.dev<br>
 🌐 https://www.anamaria.dev.br<br>
-Twitter: twitter.com/_anamariasilva_<br>
+Twitter: https://twitter.com/_anamariasilva_<br>
 ✉️ email@anamaria.dev.br<br>
 👩🏽‍💻 Tecnologia e Informática.<br>
 
