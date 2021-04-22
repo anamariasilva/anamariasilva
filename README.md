@@ -4,7 +4,7 @@ Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
 👩🏽‍💻 Instagram: ana.tech.dev<br>
 🌐 https://www.anamaria.dev.br<br>
 🔗 https://twitter.com/_anamariasilva_/<br>
-🔗 https://about.me/anamariasilva<br>
+🔗 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 💻 <a href="https://dev.to/anamaria">dev.to/anamaria</a><br>
 ✉️ email@anamaria.dev.br<br>
 💙 Tecnologia e Informática<br>
