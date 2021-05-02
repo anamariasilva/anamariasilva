@@ -5,11 +5,11 @@ Cursando Pós em Análise e Projeto de Sistemas.<br>
 Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
 👩🏽‍💻 Instagram: <a href="https://www.instagram.com/ana.tech.dev/">ana.tech.dev</a><br>
 🌐 <a href="https://www.anamaria.dev.br">www.anamaria.dev.br</a><br>
-🔗 Twitter: '_anamariasilva_'<br>
+🔗 Twitter:_anamariasilva_<br>
 🔗 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 💻 <a href="https://dev.to/anamaria">dev.to/anamaria</a><br>
 ✉️ email@anamaria.dev.br<br>
-💙 Tecnologia e Informática<br>
+Compartilhando conhecimento sobre Tecnologia e Informática.<br>
 
 
 <!--
