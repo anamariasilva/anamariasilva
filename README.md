@@ -1,4 +1,4 @@
-### Ana Maria Silva | Tech e Dev
+### Ana Maria | Tech e Dev
 🎓 Cientista da Computação.<br>
 🎓 Pós em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação.<br>
 Cursando Pós Análise e Projeto de Sistemas.<br>
