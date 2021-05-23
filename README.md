@@ -1,13 +1,13 @@
 ### Ana Maria | Tech e Dev
 🎓 Cientista da Computação.<br>
 🎓 Pós em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação.<br>
-Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
-👩🏽‍💻 Instagram: <a href="https://www.instagram.com/ana.tech.dev/">ana.tech.dev</a><br>
-🌐 <a href="https://www.anamaria.dev.br">www.anamaria.dev.br</a><br>
+👩🏽‍💻 Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
+🌐 Instagram: <a href="https://www.instagram.com/ana.tech.dev/">ana.tech.dev</a><br>
+🔗 <a href="https://www.anamaria.dev.br">www.anamaria.dev.br</a><br>
 🔗 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 💻 <a href="https://dev.to/anamaria">dev.to/anamaria</a><br>
 ✉️ email@anamaria.dev.br<br>
-Compartilhando conhecimento sobre Tecnologia no perfil tech do Instagram: @ana.tech.dev<br>
+Compartilhando conhecimento sobre Tecnologia e Desenvolvimento Web no Instagram: @ana.tech.dev<br>
 
 
 <!--
