@@ -10,7 +10,7 @@
 ✉️ email@anamaria.dev.br<br>
 Compartilhando conhecimento sobre Tecnologia e Desenvolvimento Web no Instagram: @ana.tech.dev<br>
 
- ![Snake animation](https://github.com/rafaballerini/anamariasilva/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **anamariasilva/anamariasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
