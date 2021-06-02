@@ -4,6 +4,8 @@ Pós em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação.<br>
 Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
 🌐 Criadora de conteúdo sobre Tecnologia e Desenvolvimento Web no Instagram: <a href="https://www.instagram.com/ana.tech.dev/">ana.tech.dev</a><br>
 <br>
+<a href="https://www.instagram.com/ana.tech.dev/">https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white</a>
+<a href="https://twitter.com/_anamariasilva_">https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white</a>
 <a href="https://twitter.com/_anamariasilva_">Twitter</a><br>
 💻 <a href="https://www.anamaria.dev.br">www.anamaria.dev.br</a><br>
 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
