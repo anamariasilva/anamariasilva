@@ -6,8 +6,8 @@ Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
 <br>
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a>
 <a href="https://twitter.com/_anamariasilva_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%23E4405F.svg?style=plastic&logo=Twitter&logoColor=white&color=blue"/></a>
-<a href="https://about.me/anamariasilva"><img alt="Tik Tok" src="https://img.shields.io/badge/About.me-%23E4405F.svg?style=plastic&logo=link&logoColor=white&color=blue"/></a>
-<a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Site&message=anamaria.dev.br&logo=wesite&logoColor=white&color=blue&style=plastic"/></a>
+<a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Site&message=anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a>
+<a href="https://about.me/anamariasilva"><img src="https://img.shields.io/static/v1?label=About.me&message=anamariasilva&logo=hiperlinke&logoColor=white&color=blue&style=plastic"/></a>
 
 💻 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 ✉️ email@anamaria.dev.br
