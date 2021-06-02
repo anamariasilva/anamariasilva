@@ -15,6 +15,9 @@ Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anamariasilva&theme=blue-black)](https://github.com/anamariasilva/github-readme-stats)
 
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamariasilva&theme=blue-green)](https://github.com/anamariasilva/github-readme-stats)
+
+
 
  ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
 
