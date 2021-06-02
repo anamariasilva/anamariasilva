@@ -6,11 +6,11 @@ Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
 <br>
 <a href="https://www.instagram.com/ana.tech.dev/"><img src="https://img.shields.io/static/v1?label=Instagram&message=ana.tech.dev&logo=instagram&logoColor=white&color=informational&style=plastic"/></a>
 <a href="https://twitter.com/_anamariasilva_"><img src="https://img.shields.io/static/v1?label=Twitter&message=_anamariasilva_&logo=twitter&logoColor=white&color=blue&style=plastic"/></a>
-<a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Site&message=anamaria.dev.br&logo=site&logoColor=white&color=blue&style=plastic"/></a>
+<a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Site&message=anamaria.dev.br&logo=wesite&logoColor=white&color=blue&style=plastic"/></a>
 <a href="https://dev.to/anamaria"><img src="https://img.shields.io/static/v1?label=Dev.to&message=anamaria&logo=dev&logoColor=white&color=blue&style=plastic"/></a>
-<br>
+
 💻 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
-✉️ email@anamaria.dev.br<br>
+✉️ email@anamaria.dev.br
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
 
