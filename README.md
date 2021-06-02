@@ -8,12 +8,13 @@ Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
 <a href="https://twitter.com/_anamariasilva_"><img src="https://img.shields.io/static/v1?label=Twitter&message=_anamariasilva_&logo=twitter&logoColor=white&color=blue&style=plastic"/></a>
 <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Site&message=anamaria.dev.br&logo=site&logoColor=white&color=blue&style=plastic"/></a>
 <a href="https://dev.to/anamaria"><img src="https://img.shields.io/static/v1?label=dev.to&message=anamaria&logo=dev&logoColor=white&color=blue&style=plastic"/></a>
+<a href="mailto:email@anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=E-mail&message=anamaria&logo=mail&logoColor=white&color=blue&style=plastic"/></a>
 <br>
 <a href="https://www.anamaria.dev.br">www.anamaria.dev.br</a><br>
 💻 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 ✉️ email@anamaria.dev.br<br>
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
 
  ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
 
