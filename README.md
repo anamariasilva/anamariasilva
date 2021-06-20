@@ -1,4 +1,4 @@
-### Ana Maria Silva | Tech e Dev
+### Ana Maria Silva | Tecnologia e Desenvolvimento Web
 Sou Cientista da Computação.<br>
 Conclui o Curso de Especialização em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação.<br>
 Pós-EaD em Tecnologias e Inovações para Web.<br>
