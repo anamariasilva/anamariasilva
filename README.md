@@ -10,8 +10,9 @@ Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
 <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a>
 <a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a>
 
+💻 <a href="https://dev.to/anamaria">dev.to/anamaria</a><br>
 💻 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
-✉️ email@anamaria.dev.br
+✉️ developer@anamaria.dev.br
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
 
