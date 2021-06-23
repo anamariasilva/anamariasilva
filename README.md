@@ -14,7 +14,7 @@ Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
 💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 ✉️ developer@anamaria.dev.br
 
-<img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white"/>
+<img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white"/> <img alt="Dreamweaver" src="https://aleen42.github.io/badges/src/dreamweaver.svg"/>
 
  ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
 
