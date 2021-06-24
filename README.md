@@ -1,4 +1,7 @@
 ### Ana Maria Silva | anamariasilva
+
+<img src="https://www.anamaria.dev.br/images/anamaria_capagithub.png">
+<br>
 Sou Cientista da Computação | Formada em Ciência da Computação.<br>
 Conclui o Curso de Especialização em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação.<br>
 Cursando Pós em Análise e Projeto de Sistemas.<br>
