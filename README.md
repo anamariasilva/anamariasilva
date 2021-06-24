@@ -1,8 +1,8 @@
-### Hello, World! GitHub da Ana Maria.
+### Hello, World! GitHub da Ana Maria
 
 <img src="https://www.anamaria.dev.br/images/anamaria_github.png" alt="Capa do README da Ana Maria Silva no GitHub" title="Capa do README da Ana Maria Silva no GitHub">
 
-Sou Cientista da Computação | Formada em Ciência da Computação.<br>
+Sou Cientista da Computação.<br>
 Conclui o Curso de Especialização em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação.<br>
 Cursando Pós em Análise e Projeto de Sistemas.<br>
 Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
