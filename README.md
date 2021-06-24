@@ -1,4 +1,4 @@
-### Bem vindo(a) ao GitHub da Ana Maria Silva!
+### Hello, World! GitHub da Ana Maria Silva.
 
 <img src="https://www.anamaria.dev.br/images/anamaria_capagithub.png" alt="Capa do README da Ana Maria Silva no GitHub" title="Capa do README da Ana Maria Silva no GitHub">
 
