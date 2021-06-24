@@ -1,5 +1,5 @@
 ### Ana Maria Silva | anamariasilva
-Sou Cientista da Computação.<br>
+Sou Cientista da Computação | Formada em Ciência da Computação.<br>
 Conclui o Curso de Especialização em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação.<br>
 Cursando Pós em Análise e Projeto de Sistemas.<br>
 Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
