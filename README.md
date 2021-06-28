@@ -3,8 +3,6 @@
 <img src="https://www.anamaria.dev.br/images/githubanamariasilva.png" alt="Capa do README da Ana Maria Silva no GitHub" title="Capa do README da Ana Maria Silva no GitHub">
 
 Sou Cientista da Computação.<br>
-Conclui o Curso de Especialização em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação.<br>
-Cursando Pós em Análise e Projeto de Sistemas.<br>
 Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
 🌐 Criadora de conteúdo sobre Tecnologia e Desenvolvimento Web no Instagram: <a href="https://www.instagram.com/ana.tech.dev/">ana.tech.dev</a><br>
 <br>
