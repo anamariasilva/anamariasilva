@@ -1,6 +1,6 @@
 ### Hello, World! GitHub da Ana Maria.
 
-<img src="https://www.anamaria.dev.br/images/github_anamariasilva.png" alt="README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva">
+<img src="https://www.anamaria.dev.br/images/readme-github-anamariasilva.png" alt="README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva">
 
 Cientista da Computação.<br>
 Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
