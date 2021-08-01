@@ -9,7 +9,7 @@ Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a>
 <a href="https://twitter.com/_anamariasilva_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%23E4405F.svg?style=plastic&logo=Twitter&logoColor=white&color=blue"/></a>
 <a href="https://www.anamaria.dev.br/"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a>
-<a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> <a href="https://medium.com/@anamariasilva_/about"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white"/></a> <a href="https://dev.to/anamaria"><img alt="DEV Community" src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"/></a>
+<a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a>
 
 💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 💻 <a href="https://codepen.io/anamariasilva">codepen.io/anamariasilva</a><br>
@@ -19,7 +19,7 @@ Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anamariasilva&repo=anamariasilva)](https://github.com/anamariasilva/anamariasilva) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anamariasilva&repo=anamariasilva.github.io)](https://github.com/anamariasilva/anamariasilva.github.io)
 
- ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **anamariasilva/anamariasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
