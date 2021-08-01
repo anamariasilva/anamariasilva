@@ -19,7 +19,7 @@ Analista de Tecnologia da Informação e Desenvolvedora Web Front-end.<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamariasilva&theme=dark"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anamariasilva&repo=github-readme-stats)](https://github.com/anamariasilva/anamariasilva)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anamariasilva&repo=anamariasilva)](https://github.com/anamariasilva/anamariasilva)
 
 
  ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
