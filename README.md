@@ -1,4 +1,4 @@
-### <h1>Hello, World! GitHub da Ana Maria.</h1>
+### Hello, World! GitHub da Ana Maria.
 
 <img src="https://www.anamaria.dev.br/images/github_anamariasilva.png" alt="README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva">
 
