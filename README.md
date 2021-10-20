@@ -5,7 +5,7 @@ Cientista da Computação e Desenvolvedora Web Front-end.<br>
 🌐 Criadora de conteúdo sobre Tecnologia e Desenvolvimento Web no Instagram: <a href="https://www.instagram.com/ana.tech.dev/">ana.tech.dev</a><br>
 <br>
 <strong>Formação Acadêmica:</strong><br>
-💻 Cursando Análise e Projeto de Sistemas no Departamento de Informática da PUC-Rio.
+💻 Cursando Análise e Projeto de Sistemas no Departamento de Informática da PUC-Rio.<br>
 🎓 Especialização em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação/PUC-Rio.<br>
 🎓 Ciência da Computação/UERJ.<br>
 <br>
