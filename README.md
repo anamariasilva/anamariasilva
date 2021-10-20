@@ -7,7 +7,7 @@ Cientista da Computação e Desenvolvedora Web Front-end.<br>
 <strong>Formação Acadêmica:</strong><br>
 💻 Cursando Análise e Projeto de Sistemas no Departamento de Informática da PUC-Rio.<br>
 🎓 Especialização em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação/PUC-Rio.<br>
-🎓 Ciência da Computação/UERJ.<br>
+🎓 Bacharel em Ciência da Computação/UERJ.<br>
 <br>
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a>
 <a href="https://twitter.com/_anamariasilva_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%23E4405F.svg?style=plastic&logo=Twitter&logoColor=white&color=blue"/></a>
