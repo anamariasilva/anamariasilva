@@ -27,6 +27,8 @@
 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"/>
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=anamariasilva&label=visitantes&countColor=%23002857&style=plastic)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anamariasilva&repo=anamariasilva)](https://github.com/anamariasilva/anamariasilva) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anamariasilva&repo=anamariasilva.github.io)](https://github.com/anamariasilva/anamariasilva.github.io)
 
 <!--
