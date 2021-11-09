@@ -14,7 +14,8 @@
 ### Contatos
 
 <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/DEV.to-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a>
-<a href="https://medium.com/@anamariasilva_"><img alt="Medium" src="https://img.shields.io/badge/medium-%23E4405F.svg?style=plastic&logo=medium&logoColor=white&color=black"/></a>
+<a href="https://medium.com/@anamariasilva_"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23E4405F.svg?style=plastic&logo=medium&logoColor=white&color=black"/></a>
+<a href="https://pingback.com/anamariasilva"><img alt="Medium" src="https://img.shields.io/badge/Pingback-%23E4405F.svg?style=plastic&logo=pingback&logoColor=white&color=black"/></a>
 
 💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 💻 <a href="https://codepen.io/anamariasilva">codepen.io/anamariasilva</a><br>
