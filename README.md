@@ -1,4 +1,4 @@
-### Hello, World! GitHub da Ana Maria.
+## Hello, World! GitHub da Ana Maria.
 
 <img src="https://www.anamaria.dev.br/images/readme-github-anamariasilva.png" alt="README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva">
 💻 Cientista da Computação e Desenvolvedora Web Front-end.<br>
@@ -9,7 +9,12 @@
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a>
 <a href="https://twitter.com/_anamariasilva_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%23E4405F.svg?style=plastic&logo=Twitter&logoColor=white&color=blue"/></a>
 <a href="https://www.anamaria.dev.br/"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a>
-<a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/DEV.to-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a>
+<a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> 
+
+### Contatos
+
+<a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/DEV.to-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a>
+<a href="https://medium.com/@anamariasilva_"><img alt="Medium" src="https://img.shields.io/badge/medium-%23E4405F.svg?style=plastic&logo=medium&logoColor=white&color=black"/></a>
 
 💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 💻 <a href="https://codepen.io/anamariasilva">codepen.io/anamariasilva</a><br>
