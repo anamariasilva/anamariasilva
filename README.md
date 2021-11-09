@@ -11,19 +11,18 @@
 <a href="https://www.anamaria.dev.br/"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a>
 <a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> 
 
-### Contatos:
+### Blogs:
 
 <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/DEV.to-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a>
 <a href="https://medium.com/@anamariasilva_"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23E4405F.svg?style=plastic&logo=medium&logoColor=white&color=black"/></a>
 <a href="https://pingback.com/anamariasilva"><img alt="Pingback" src="https://img.shields.io/badge/Pingback-%23E4405F.svg?style=plastic&logo=pingback&logoColor=white&color=black"/></a>
 <a href="https://codepen.io/anamariasilva"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-%23E4405F.svg?style=plastic&logo=codepen&logoColor=white&color=black"/></a>
 
-https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+<a href="https://codepen.io/anamariasilva"><img alt="Codepen" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
 ### Contatos:
 
 💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
-💻 <a href="https://codepen.io/anamariasilva">codepen.io/anamariasilva</a><br>
 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"/>
 
