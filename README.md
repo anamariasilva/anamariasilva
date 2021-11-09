@@ -29,6 +29,9 @@
 
 ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
 
+
+<img alingn="center" src="https://profile-counter.glitch.me/anamariasilva/count.svg" />
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anamariasilva&repo=anamariasilva)](https://github.com/anamariasilva/anamariasilva) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anamariasilva&repo=anamariasilva.github.io)](https://github.com/anamariasilva/anamariasilva.github.io)
 
 <!--
