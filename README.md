@@ -21,7 +21,7 @@
 ### Contatos:
 
 💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
-✉️ <a href="mailto:developer@anamaria.dev.br">developer@anamaria.dev.br</a><br>
+✉️ <a href="mailto:developer@anamaria.dev.br">developer@anamaria.dev.br</a>
 
 ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
 
