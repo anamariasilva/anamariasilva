@@ -4,7 +4,7 @@
 💻 Cientista da Computação e especialista em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação.<br>
 💻 Desenvolvedora Web Front-end.<br>
 🌐 Criadora de conteúdo sobre Tecnologia e Desenvolvimento Web no Instagram: <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a>
-<br>
+<br><br>
 <a href="https://www.anamaria.dev.br/"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> 
 
 ### Contatos:
