@@ -2,23 +2,20 @@
 
 <img src="https://www.anamaria.dev.br/images/readme-github-anamariasilva.png" alt="README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva">
 💻 Cientista da Computação e especialista em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação.<br>
-💻 Desenvolvedora Web Front-end.
+💻 Desenvolvedora Web Front-end.<br>
+🌐 Criadora de conteúdo sobre Tecnologia e Desenvolvimento Web no Instagram: <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a>
 <br><br>
 <a href="https://www.anamaria.dev.br/"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a>
 <a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> 
 
-### Redes Sociais:
+### Contatos:
 
-🌐 Criadora de conteúdo sobre Tecnologia e Desenvolvimento Web no Instagram: <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a>
-<br><br>
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://twitter.com/_anamariasilva_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%23E4405F.svg?style=plastic&logo=Twitter&logoColor=white&color=blue"/></a>
 
 <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/DEV.to-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a>
 <a href="https://medium.com/@anamariasilva_"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23E4405F.svg?style=plastic&logo=medium&logoColor=white&color=black"/></a>
 <a href="https://pingback.com/anamariasilva"><img alt="Pingback" src="https://img.shields.io/badge/Pingback-%23E4405F.svg?style=plastic&logo=pingback&logoColor=white&color=black"/></a>
 <a href="https://codepen.io/anamariasilva"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-%23E4405F.svg?style=plastic&logo=codepen&logoColor=white&color=black"/></a>
-
-### Contatos:
 
 💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 ✉️ <a href="mailto:developer@anamaria.dev.br">developer@anamaria.dev.br</a>
