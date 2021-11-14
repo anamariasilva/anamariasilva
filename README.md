@@ -25,7 +25,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anamariasilva&repo=anamariasilva)](https://github.com/anamariasilva/anamariasilva) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anamariasilva&repo=anamariasilva.github.io)](https://github.com/anamariasilva/anamariasilva.github.io)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=anamariasilva&label=visualizações do perfil&labelColor=%23002857&countColor=%23000000&style=plastic)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=anamariasilva&label=visualizações&labelColor=%23002857&countColor=%23000000&style=plastic)
 
 <!--
 **anamariasilva/anamariasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
