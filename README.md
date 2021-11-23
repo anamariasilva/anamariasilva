@@ -5,7 +5,8 @@
 💻 Desenvolvedora Web Front-end.<br>
 🌐 Criadora de conteúdo sobre Tecnologia e Desenvolvimento Web no Instagram: <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a>
 <br><br>
-<a href="https://www.anamaria.dev.br/"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> 
+<a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=plastic"/></a>
+<a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> 
 
 ### Contatos:
 
