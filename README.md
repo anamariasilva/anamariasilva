@@ -17,6 +17,7 @@
 <a href="https://pingback.com/anamariasilva"><img alt="Pingback" src="https://img.shields.io/badge/Pingback-%23E4405F.svg?style=plastic&logo=pingback&logoColor=white&color=black"/></a>
 <a href="https://codepen.io/anamariasilva"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-%23E4405F.svg?style=plastic&logo=codepen&logoColor=white&color=black"/></a>
 
+💬 <a href="https://medium.com/@anamariasilva_">medium.com/@anamariasilva_</a>
 💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 ✉️ <a href="mailto:developer@anamaria.dev.br">developer@anamaria.dev.br</a>
 
