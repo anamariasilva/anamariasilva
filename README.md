@@ -1,4 +1,4 @@
-## Hello, World! GitHub da Ana Maria.
+## Hello, devs! GitHub da Ana Maria.
 
 <img src="https://www.anamaria.dev.br/images/readme-github-anamariasilva.png" alt="README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva">
 💻 Cientista da Computação e especialista em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação.<br>
