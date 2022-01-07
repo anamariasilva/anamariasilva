@@ -1,8 +1,8 @@
 ## Hello, devs! GitHub da Ana Maria.
 
 <img src="https://www.anamaria.dev.br/images/readme-github-anamariasilva.png" alt="README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva">
-💻 Cientista da Computação e especialista em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação.<br>
-💻 Desenvolvedora Web Front-end.<br>
+💻 Cientista da Computação<br>
+💻 Desenvolvedora Web Front-end<br>
 🌐 Criadora de conteúdo sobre Tecnologia e Desenvolvimento Web Front-end no Instagram: <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a>
 <br><br>
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=plastic"/></a>
