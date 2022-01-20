@@ -3,7 +3,7 @@
 <img src="https://www.anamaria.dev.br/images/capa_github_anamaria.png" alt="capa do README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva">
 💻 Cientista da Computação<br>
 💻 Desenvolvedora Web Front-end<br>
-🌐 Criadora de conteúdo sobre Tecnologia e Desenvolvimento Web Front-end no Instagram: <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a>
+🌐 Criadora de conteúdo no Instagram: <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e Desenvolvimento Web Front-end.
 <br><br>
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=plastic"/></a>
 <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> 
