@@ -1,4 +1,4 @@
-## Hello World! GitHub da Ana Maria.
+## <code>Hello World</code> ! GitHub da Ana Maria.
 
 <img src="https://www.anamaria.dev.br/images/capa_github_anamaria.png" alt="capa do README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva">
 💻 Cientista da Computação<br>
