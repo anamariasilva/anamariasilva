@@ -10,7 +10,7 @@
 
 ### Contatos:
 
-<a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://www.linkedin.com/in/anamariasilva"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?style=plastic&logo=linkedin&logoColor=white&color=blue"/></a> <a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a>
+<a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://www.linkedin.com/in/anamariasilva"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?style=plastic&logo=linkedin&logoColor=white&color=blue"/></a> <a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> <a href="https://github.com/anatechdev"><img alt="GitHub da organização anatechdev" src="https://img.shields.io/badge/anatechdev-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a>
 
 <a href="https://twitter.com/_anamariasilva_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%23E4405F.svg?style=plastic&logo=Twitter&logoColor=white&color=blue"/></a> 
 <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a>
