@@ -1,6 +1,6 @@
-# GitHub da Ana Maria | github.com/anamariasilva
+# GitHub da Ana Maria
 
-## <code>Hello World, devs!</code>
+## <code>Hello World, devs!</code> | github.com/anamariasilva
 
 <img src="https://www.anamaria.dev.br/images/capa_github_anamaria.png" alt="capa do README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva">
 💻 Cientista da Computação<br>
