@@ -1,4 +1,4 @@
-# GitHub da Ana Maria.
+# GitHub da Ana Maria | github.com/anamariasilva
 
 ## <code>Hello World, devs!</code>
 
