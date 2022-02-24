@@ -1,7 +1,5 @@
 # GitHub da Ana Maria Silva.
 
-### <code><Hello World, devs!/></code>
-
 <img src="https://www.anamaria.dev.br/images/capa_github_anamaria.png" alt="capa do README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva">
 💻 Cientista da Computação<br>
 💻 Desenvolvedora Web Front-end<br>
@@ -9,6 +7,8 @@
 <br><br>
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=plastic"/></a>
 <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> 
+
+### <code><Hello World, devs!/></code>
 
 ### Contatos:
 
