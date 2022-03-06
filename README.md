@@ -2,7 +2,7 @@
 
 <img src="https://www.anamaria.dev.br/images/capa_github_anamaria.png" alt="capa do README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva">
 
-### <code><Hello World, devs!/></code>
+### <code>Hello World, devs!</code>
 
 💻 Cientista da Computação<br>
 💻 Desenvolvedora Web Front-end<br>
@@ -15,7 +15,7 @@
 
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://www.linkedin.com/in/anamariasilva"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?style=plastic&logo=linkedin&logoColor=white&color=blue"/></a> <a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> <a href="https://twitter.com/_anamariasilva_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%23E4405F.svg?style=plastic&logo=Twitter&logoColor=white&color=blue"/></a> 
 
-### Redes Sociais:
+### Perfis:
 <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a>
 <a href="https://medium.com/@anamariasilva_"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23E4405F.svg?style=plastic&logo=medium&logoColor=white&color=black"/></a>
 <a href="https://pingback.com/anamariasilva"><img alt="Pingback" src="https://img.shields.io/badge/Pingback-%23E4405F.svg?style=plastic&logo=pingback&logoColor=white&color=black"/></a>
