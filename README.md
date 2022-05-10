@@ -24,7 +24,7 @@
 <a href="https://codepen.io/anamariasilva"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-%23E4405F.svg?style=plastic&logo=codepen&logoColor=white&color=black"/></a>
 
 💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
-✉️ <a href="mailto:contato@anamaria.dev.br">contato@anamaria.dev.br</a>
+✉️ <a href="mailto:developer@anamaria.dev.br">developer@anamaria.dev.br</a>
 
 ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
 
