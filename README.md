@@ -23,10 +23,8 @@
 <a href="https://pingback.com/anamariasilva"><img alt="Pingback" src="https://img.shields.io/badge/Pingback-%23E4405F.svg?style=plastic&logo=pingback&logoColor=white&color=black"/></a>
 <a href="https://codepen.io/anamariasilva"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-%23E4405F.svg?style=plastic&logo=codepen&logoColor=white&color=black"/></a>
 
-[Artigo 10 ferramentas de estudo para pessoas desenvolvedoras](https://community.revelo.io/author/ana/) <br>
-[Artigos e Tutoriais](https://www.anamaria.dev.br/artigos/artigos.html) <br>
-
-<br>
+💻 [Artigo 10 ferramentas de estudo para pessoas desenvolvedoras](https://community.revelo.io/author/ana/) <br>
+💻 [Artigos e Tutoriais](https://www.anamaria.dev.br/artigos/artigos.html) <br>
 
 💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 ✉️ <a href="mailto:developer@anamaria.dev.br">developer@anamaria.dev.br</a>
