@@ -1,4 +1,4 @@
-# GitHub da Ana Maria Silva.
+# GitHub da Ana Maria Silva
 
 <img src="https://www.anamaria.dev.br/capa_github_anamaria.png" alt="capa do README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva">
 
