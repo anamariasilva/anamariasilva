@@ -35,7 +35,7 @@
 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=anamariasilva&label=Profile views&labelColor=%23002857&countColor=%23000000&style=plastic)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=anamariasilva&label=visualizações&labelColor=%23002857&countColor=%23000000&style=plastic)
 
 <!--
 **anamariasilva/anamariasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
