@@ -37,6 +37,8 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=anamariasilva&label=visualizações&labelColor=%23002857&countColor=%23000000&style=plastic)
 
+![Profile views](https://github.com/anamariasilva)
+
 <!--
 **anamariasilva/anamariasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Vi
