@@ -20,7 +20,7 @@
 💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 ✉️ <a href="mailto:developer@anamaria.dev.br">developer@anamaria.dev.br</a>
 
-### Conteúdos colaborativos com a comunidade dev:
+### Artigos colaborativos com a comunidade dev:
 
 📝 [Artigos Revelo Community](https://community.revelo.io/author/ana/) <br>
 📝 [Artigos e tutoriais colaborativos com a comunidade dev](https://www.anamaria.dev.br/artigos/artigos.html) <br>
