@@ -20,10 +20,10 @@
 💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 ✉️ <a href="mailto:developer@anamaria.dev.br">developer@anamaria.dev.br</a>
 
-### Artigos colaborativos com a comunidade dev:
+### Conteúdos colaborativos:
 
 📝 [Artigos Revelo Community](https://community.revelo.io/author/ana/) <br>
-📝 [Artigos e tutoriais colaborativos com a comunidade dev](https://www.anamaria.dev.br/artigos/artigos.html) <br>
+📝 [Tutoriais colaborativos com a comunidade dev](https://www.anamaria.dev.br/artigos/artigos.html) <br>
 
 ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
 
