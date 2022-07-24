@@ -24,7 +24,7 @@
 
 ### Conteúdos colaborativos:
 
-📝 [Artigos Revelo Community](https://community.revelo.io/author/ana/) <br>
+📝 [Artigos Revelo Community](https://community.revelo.com/author/ana/) <br>
 📝 [Tutoriais colaborativos com a comunidade dev](https://www.anamaria.dev.br/artigos/artigos.html) <br>
 
 ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
