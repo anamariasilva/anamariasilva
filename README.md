@@ -5,7 +5,7 @@
 ### <code>Hello World, devs!</code>
 
 💻 Cientista da Computação<br>
-💻 Desenvolvedora Web Front-end<br>
+💻 Desenvolvedora Front-end<br>
 🌐 Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e Desenvolvimento Web Front-end.
 <br><br>
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=plastic"/></a>
@@ -20,7 +20,6 @@
  <a href="https://www.polywork.com/anamariasilva"><img alt="Polywork" src="https://img.shields.io/badge/polywork.com/anamariasilva-%23E4405F.svg?style=plastic&logo=Polywork&logoColor=white&color=black"/></a> <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to/anamaria-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a>  
 <br><br>
 💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
-✉️ <a href="mailto:developer@anamaria.dev.br">developer@anamaria.dev.br</a>
 
 ### Conteúdos colaborativos:
 
