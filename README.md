@@ -25,7 +25,7 @@
 📝 [Artigos Revelo Community](https://community.revelo.com/author/ana/) <br>
 📝 [Tutoriais colaborativos com a comunidade dev](https://www.anamaria.dev.br/artigos/artigos.html) <br>
 
-<a href="https://github.com/anamariasilva"><img src="https://www.anamaria.dev.br/anatechdev.png" alt="Logotipo Ana Maria | Tech e Dev"></a>
+<a href="https://github.com/anamariasilva"><img src="https://www.anamaria.dev.br/logotipo_anatechdev.png" alt="Logotipo Ana Maria | Tech e Dev"></a>
 
 ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
 
