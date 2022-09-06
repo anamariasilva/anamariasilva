@@ -19,7 +19,6 @@
 <a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> 
  <a href="https://www.polywork.com/anamariasilva"><img alt="Polywork" src="https://img.shields.io/badge/polywork.com/anamariasilva-%23E4405F.svg?style=plastic&logo=Polywork&logoColor=white&color=black"/></a> <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to/anamaria-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a>  
 <br><br>
-💬 <a href="https://about.me/anamariasilva">about.me/anamariasilva</a><br>
 
 ### Conteúdos colaborativos:
 
