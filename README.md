@@ -9,7 +9,7 @@
 🌐 Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e Desenvolvimento Web Front-end.
 <br><br>
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=plastic"/></a>
-<a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfólio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> 
+<a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfólio&message=anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> 
 
 ### Contatos:
 
