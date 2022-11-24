@@ -16,12 +16,13 @@
 
 <br>
 <a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> 
- <a href="https://www.polywork.com/anamariasilva"><img alt="Polywork" src="https://img.shields.io/badge/polywork.com/anamariasilva-%23E4405F.svg?style=plastic&logo=Polywork&logoColor=white&color=black"/></a> <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to/anamaria-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a> <a href="[https://dev.to/anamaria](https://cursos.alura.com.br/vitrinedev/anamariasilva)"><img alt="Vitrine Dev Alura" src="https://img.shields.io/badge/alura/anamaria-%23E4405F.svg?style=plastic&logo=Vitrine Dev Alura&logoColor=white&color=black"/></a> 
+ <a href="https://www.polywork.com/anamariasilva"><img alt="Polywork" src="https://img.shields.io/badge/polywork.com/anamariasilva-%23E4405F.svg?style=plastic&logo=Polywork&logoColor=white&color=black"/></a> <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to/anamaria-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a>  
 <br><br>
 
 ### Conteúdos colaborativos:
 
 📝 [Artigos Revelo Community](https://community.revelo.com/author/ana/) <br>
+📝 [Vitrine Dev da Alura](https://cursos.alura.com.br/vitrinedev/anamariasilva) <br>
 📝 [Tutoriais colaborativos com a comunidade dev](https://www.anamaria.dev.br/artigos/artigos.html) <br>
 
 ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
