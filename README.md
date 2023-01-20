@@ -5,7 +5,7 @@
 ### <code>Hello World, devs!</code>
 
 💻 Cientista da Computação<br>
-💻 Desenvolvedora front-end<br>
+💻 Desenvolvedora web front-end<br>
 🌐 Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e Desenvolvimento Web Front-end.
 <br><br>
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> 
@@ -23,14 +23,10 @@
 
 📝 [Artigos Revelo Community](https://community.revelo.com/author/ana/) <br>
 📝 [Vitrine Dev da Alura](https://cursos.alura.com.br/vitrinedev/anamariasilva) <br>
-📝 [Tutoriais colaborativos com a comunidade dev](https://www.anamaria.dev.br/artigos/artigos.html) <br>
 
 ![Snake animation](https://github.com/anamariasilva/anamariasilva/blob/output/github-contribution-grid-snake.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anamariasilva&repo=anamariasilva)](https://github.com/anamariasilva/anamariasilva) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anamariasilva&repo=anamariasilva.github.io)](https://github.com/anamariasilva/anamariasilva.github.io)
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=anamariasilva&label=visualizações&labelColor=%23002857&countColor=%23000000&style=plastic)
 
