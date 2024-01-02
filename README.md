@@ -12,7 +12,7 @@
 
 ### Contatos:
 
-<a href="https://www.instagram.com/ana.tech.dev/"><img alt="logo Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/anamariasilva-%23E4405F.svg?style=plastic&logo=linkedin&logoColor=white&color=blue"/></a> 
+<a href="https://www.instagram.com/ana.tech.dev/"><img alt="logo Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/anamariasilva-%23E4405F.svg?style=plastic&logo=linkedin&logoColor=white&color=blue"/></a> <br>
 E-mail: email@anamaria.dev.br
 
 <br>
