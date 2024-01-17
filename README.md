@@ -6,7 +6,8 @@
 
 💻 Cientista da Computação <br>
 💻 Especialista em Ergodesign de Interfaces | Pós-Graduação em Análise e Projeto de Sistemas <br>
-🌐 Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e Desenvolvimento Front-end para devs.
+🌐 Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e Desenvolvimento Front-end para devs. <br>
+💜 Embaixadora PrograMaria | Por mais mulheres na tecnologia!
 <br><br>
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> 
 
