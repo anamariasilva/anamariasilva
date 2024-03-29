@@ -14,8 +14,6 @@
 ### Contatos:
 
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="logo Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/anamariasilva-%23E4405F.svg?style=plastic&logo=linkedin&logoColor=white&color=blue"/></a> <br>
-✉️ E-mail: email@anamaria.dev.br
-
 <br>
 
 ### Perfis
@@ -25,7 +23,7 @@
 🌐 Microsoft Learn: <a href="(https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/anamariasilva-%23E4405F.svg?style=plastic&logo=microsoft&logoColor=white&color=black"/></a>  <br>
 🌐 [Vitrine Dev da Alura](https://cursos.alura.com.br/vitrinedev/anamariasilva) <br>
 
-### Conteúdos colaborativos:
+### Conteúdos Colaborativos com a Comunidade Tech:
 
 📝 [Artigos LinkedIn](https://www.linkedin.com/pulse/pesquisei-chatgpt-sobre-materiais-de-estudo-ia-generativa-silva-v7p0f/) <br>
 📝 [Artigos Revelo Community](https://community.revelo.com/author/ana/) <br>
