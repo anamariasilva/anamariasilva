@@ -17,14 +17,21 @@
 ✉️ E-mail: email@anamaria.dev.br
 
 <br>
-<a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to/anamaria-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a>  
-<br>
+
+### Perfis
+
+🌐 <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to/anamaria-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a> 
+🌐 <a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/google/anamariasilva-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a>  
+🌐 [Vitrine Dev da Alura](https://cursos.alura.com.br/vitrinedev/anamariasilva) <br>
 
 ### Conteúdos colaborativos:
 
 📝 [Artigos LinkedIn](https://www.linkedin.com/pulse/pesquisei-chatgpt-sobre-materiais-de-estudo-ia-generativa-silva-v7p0f/) <br>
 📝 [Artigos Revelo Community](https://community.revelo.com/author/ana/) <br>
-📝 [Vitrine Dev da Alura](https://cursos.alura.com.br/vitrinedev/anamariasilva) <br>
+
+
+<a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> 
+<br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
