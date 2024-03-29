@@ -20,12 +20,9 @@
 
 ### Perfis
 
-🌐 Dev Community: <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to/anamaria-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a> 
-
-🌐 Google for Developers <a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/g.dev/anamariasilva-%23E4405F.svg?style=plastic&logo=google&logoColor=white&color=blue"/></a>  
-
-🌐 Microsoft Learn <a href="(https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/anamariasilva-%23E4405F.svg?style=plastic&logo=microsoft&logoColor=white&color=black"/></a>  
-
+🌐 Dev Community: <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to/anamaria-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a> <br> 
+🌐 Google for Developers: <a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/g.dev/anamariasilva-%23E4405F.svg?style=plastic&logo=google&logoColor=white&color=blue"/></a>  <br>
+🌐 Microsoft Learn: <a href="(https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/anamariasilva-%23E4405F.svg?style=plastic&logo=microsoft&logoColor=white&color=black"/></a>  <br>
 🌐 [Vitrine Dev da Alura](https://cursos.alura.com.br/vitrinedev/anamariasilva) <br>
 
 ### Conteúdos colaborativos:
