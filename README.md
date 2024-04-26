@@ -13,10 +13,8 @@
 
 ### Contatos:
 
-<a href="https://www.instagram.com/ana.tech.dev/"><img alt="logo Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/anamariasilva-%23E4405F.svg?style=plastic&logo=linkedin&logoColor=white&color=blue"/></a> <br>
-
-### Perfis:
-
+<a href="https://www.instagram.com/ana.tech.dev/"><img alt="logo Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <br> 
+<a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/anamariasilva-%23E4405F.svg?style=plastic&logo=linkedin&logoColor=white&color=blue"/></a> <br>
 <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to/anamaria-%23E4405F.svg?style=plastic&logo=dev.to&logoColor=white&color=black"/></a>  <br> 
 <a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/g.dev/anamariasilva-%23E4405F.svg?style=plastic&logo=google&logoColor=white&color=blue"/></a> <br>
 <a href="https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/anamariasilva-%23E4405F.svg?style=plastic&logo=microsoft&logoColor=white&color=black"/></a>  <br>
