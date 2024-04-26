@@ -2,7 +2,7 @@
 
 ![cabeçalho do README do GitHub da Ana Maria Silva](https://www.anamaria.dev.br/github/capa-github.png)
 
-### <code>Hello World, devs!</code>
+## <code>Hello World, GitHub!</code>
 
 💻 Cientista da Computação <br>
 💻 Especialista em Ergodesign de Interfaces | Pós-Graduação em Análise e Projeto de Sistemas <br>
