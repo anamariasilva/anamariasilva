@@ -1,6 +1,7 @@
 # GitHub da Ana Maria Silva
 
-!(https://www.anamaria.dev.br/github/capa-github-anamariasilva.png)
+!()
+![Legenda](https://www.anamaria.dev.br/github/capa-github-anamariasilva.png)
 
 ### <code>Hello World, devs!</code>
 
@@ -23,13 +24,6 @@
 🌐 <a href="(https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/anamariasilva-%23E4405F.svg?style=plastic&logo=microsoft&logoColor=white&color=black"/></a> Microsoft Learn <br>
 🌐 [Vitrine Dev da Alura](https://cursos.alura.com.br/vitrinedev/anamariasilva) <br>
 
-### Conteúdos Colaborativos com a Comunidade Tech:
-
-📝 [Artigos LinkedIn](https://www.linkedin.com/pulse/pesquisei-chatgpt-sobre-materiais-de-estudo-ia-generativa-silva-v7p0f/) <br>
-📝 [Artigos Revelo Community](https://community.revelo.com/author/ana/) <br>
-
-
-<a href="https://anamariasilva.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> 
 <br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
