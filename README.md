@@ -1,6 +1,6 @@
 # GitHub da Ana Maria Silva
 
-![cabeçalho do README do GitHub da Ana Maria Silva](https://www.anamaria.dev.br/github/capa-github-anamariasilva.png)
+![cabeçalho do README do GitHub da Ana Maria Silva](https://www.anamaria.dev.br/github/capa-github.png)
 
 ### <code>Hello World, devs!</code>
 
@@ -14,7 +14,6 @@
 ### Contatos:
 
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="logo Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/anamariasilva-%23E4405F.svg?style=plastic&logo=linkedin&logoColor=white&color=blue"/></a> <br>
-<br>
 
 ### Perfis:
 
