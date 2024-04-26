@@ -1,6 +1,6 @@
 # GitHub da Ana Maria Silva
 
-<a href="https://github.com/anamariasilva"><img src="https://www.anamaria.dev.br/github/capa-github-anamariasilva.png" alt="capa do README do GitHub da Ana Maria Silva" title="README do GitHub da Ana Maria Silva"></a>
+!(https://www.anamaria.dev.br/github/capa-github-anamariasilva.png)
 
 ### <code>Hello World, devs!</code>
 
