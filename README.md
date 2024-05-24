@@ -15,9 +15,9 @@
 
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="logo Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=blue"/></a> 
 <a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"/></a> 
-<a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/Dev Community-%23E4405F.svg?style=for-the-badge&logo=dev.to&logoColor=white&color=black"/></a> 
+<a href="https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft Learn-%23E4405F.svg?style=for-the-badge&logo=microsoft&logoColor=white&color=blue"/></a> 
 <a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/Google for Developers-%23E4405F.svg?style=for-the-badge&logo=google&logoColor=white&color=blue"/></a> 
-<a href="https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft Learn-%23E4405F.svg?style=for-the-badge&logo=microsoft&logoColor=white&color=black"/></a> 
+<a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/Dev Community-%23E4405F.svg?style=for-the-badge&logo=dev.to&logoColor=white&color=blue"/></a> 
 
 <a href="mailto:contato@anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=E-mail&message=contato@anamaria.dev.br&logo=mail&logoColor=white&color=blue&style=for-the-badge"/></a>
 
